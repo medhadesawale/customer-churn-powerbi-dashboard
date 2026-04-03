@@ -2,27 +2,77 @@
 
 ![Dashboard](dashboard.png)
 
+---
+
 ## 🔍 Project Overview
-This project analyzes customer churn behavior using Power BI.
 
-The dashboard provides insights into:
-- Customer retention vs churn
-- Impact of age, balance, and geography
-- Active vs inactive customer behavior
-- Product usage patterns
+This project focuses on analyzing customer churn behavior in a banking dataset using Power BI.
 
-## 📈 Tools Used
-- Power BI
-- Excel
+The goal is to identify:
 
-## 📊 Key Insights
-- Inactive customers are more likely to churn
-- Customers with zero balance show higher churn
-- Certain age groups have higher churn rates
-- Geography plays an important role in churn
+* Why customers leave
+* Which customers are at risk
+* Key factors affecting retention
 
-## 📁 File
-- Customer_Churn_Dashboard.pbix
+---
 
-## 🚀 Author
-Medha Desawale
+## 🛠 Tools & Technologies
+
+* Power BI
+* Excel
+* DAX (Data Analysis Expressions)
+
+---
+
+## 📊 Dashboard Features
+
+* Total Customers, Churned Customers, Retention Rate
+* Churn analysis by:
+
+  * Country
+  * Gender
+  * Age Group
+  * Account Balance
+  * Active Membership
+* Interactive slicers for filtering
+
+---
+
+## 📈 Key Business Insights
+
+* Inactive customers are more likely to churn
+* Customers with zero balance show higher churn rates
+* Certain age groups (30–50) have higher churn probability
+* Geography impacts churn behavior significantly
+* Customers with fewer products tend to churn more
+
+---
+
+## 📁 Files Included
+
+* Customer_Churn_Dashboard.pbix
+* dashboard.png (Dashboard Screenshot)
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file
+2. Open in Power BI Desktop
+3. Explore dashboard using filters and visuals
+
+---
+
+## 💡 Conclusion
+
+This dashboard helps businesses:
+
+* Identify high-risk customers
+* Improve retention strategies
+* Make data-driven decisions
+
+---
+
+## 👩‍💻 Author
+
+**Medha Desawale**

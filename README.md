@@ -63,6 +63,14 @@ The goal is to identify:
 
 ---
 
+## ❓ Business Questions Answered
+- Which customers are most likely to churn?
+- Does active membership affect churn?
+- Which country has highest churn?
+- How does balance impact churn?
+- Do customers with fewer products churn more?
+
+---
 ## 💡 Conclusion
 
 This dashboard helps businesses:
